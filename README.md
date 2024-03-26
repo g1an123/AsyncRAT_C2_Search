@@ -24,5 +24,5 @@ python3 AsyncRAT_C2_Seearch.py host port
 运行环境：Macos 12.5
 其他环境暂未测试
 
-感谢：
+## 鸣谢
 石总@smc帮忙优化了公网探测脚本，优化后的版本尚未放出，敬请期待😋。
