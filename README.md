@@ -1,5 +1,11 @@
 # AsyncRAT_C2_Search
 
+## 功能
+探测发现AsyncRAT C2 工具，目前实现探测特征：
+1. TLS证书
+2. ping包
+3. Jarm指纹
+
 ## 使用方法
 1. 检测单个端口：
 ```python
