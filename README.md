@@ -21,12 +21,15 @@ python3 AsyncRAT_C2_Seearch.py host port
 # process_target_csv("target1.csv")    # 扫描文件  
 # scan_ip_range_from_file("ip_range.txt") # 从文件中获取ip段扫描
 ```
+3. 运行环境
 运行环境：Macos 12.5
 其他环境暂未测试
+
+4. 原理&文章
+相关原理已在先知社区开源：https://xz.aliyun.com/t/14201
 
 ## 公网探测部分
 https://github.com/g1an123/AsyncRAT-go-Scanner
 
-相关原理已在先知社区开源：https://xz.aliyun.com/t/14201
 ## 鸣谢
 石总@smc帮忙优化了相关脚本🤪
